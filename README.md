@@ -12,16 +12,6 @@ Most ML projects stop at `accuracy_score`. This one goes further: it explores mo
 
 ---
 
-
-## Why This Project Stands Out
-
-- Goes beyond accuracy → focuses on bias, variance, and generalization
-- Combines ML + statistics + experimentation in a single tool (rare in portfolio projects)
-- Includes production-style A/B testing with hypothesis testing and power analysis
-- Built to reflect real-world model evaluation, not tutorials
-
----
-
 ## Modules
 
 ### ⚡ Module 1 — Model Behavior Playground
