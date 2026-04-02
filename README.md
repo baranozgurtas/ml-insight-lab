@@ -6,9 +6,10 @@
 ![SciPy](https://img.shields.io/badge/SciPy-1.11+-blue?style=flat-square&logo=scipy)
 ![Plotly](https://img.shields.io/badge/Plotly-5.18+-3F4F75?style=flat-square&logo=plotly)
 
-A hands-on platform for understanding why machine learning models fail, not just how they perform.
+An interactive ML system for analyzing model failure, generalization, and statistically sound decision-making.
 
-Most ML projects stop at `accuracy_score`. This one goes further: it explores model behavior, bias-variance dynamics, and statistical decision-making — the things that actually matter in production.
+Most ML projects stop at `accuracy_score`. Real-world ML systems require understanding *why* models fail   
+and whether improvements are statistically significant.
 
 ---
 
@@ -145,12 +146,12 @@ App runs at `http://localhost:8501`
 
 ## Positioning
 
-This project is designed to mirror how ML systems are evaluated in production environments 
-where model selection is not based on a single metric, but on reliability, generalization, and statistical confidence.
+This project mirrors how ML systems are evaluated in production,  
+where model selection depends on reliability, generalization, and robustness — not a single metric.
 
-It emphasizes:
+Core focus:
 - Understanding model behavior under changing data conditions  
 - Quantifying uncertainty and variance in performance  
 - Making deployment decisions backed by statistical evidence  
 
-Inspired by real-world ML workflows, where incorrect decisions carry cost and intuition is not enough.
+Inspired by production ML systems, where incorrect deployment decisions carry measurable cost.
