@@ -1,4 +1,4 @@
-# 🧪 ML Insight Lab
+# ML Insight Lab
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-red?style=flat-square&logo=streamlit)
@@ -15,7 +15,7 @@ and whether improvements are statistically significant.
 
 ## Modules
 
-### ⚡ Module 1 — Model Behavior Playground
+### Module 1 — Model Behavior Playground
 
 Visualize how ML models succeed — and fail — under different data conditions.
 
@@ -44,7 +44,7 @@ Visualize how ML models succeed — and fail — under different data conditions
 
 ---
 
-### 📊 Module 2 — A/B Testing Simulator
+### Module 2 — A/B Testing Simulator
 
 Make statistically sound model deployment decisions.
 
